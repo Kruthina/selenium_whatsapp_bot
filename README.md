@@ -1,7 +1,7 @@
 # Whatsapp-selenium-bot
-It uses selenium to automate whatsapp for various different functionality.
+Selenium to automate whatsapp for various functionality.
 <br/>
-You can do a lot of things like
+You can:
 <ul>
   <li>Send multiple messages to same persion</li>
   <li>Type names of various contancts and without creating a group send them single message</li>
