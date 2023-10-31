@@ -1,4 +1,4 @@
-# Whatsapp-selenium-automation
+# Whatsapp-selenium-bot
 It uses selenium to automate whatsapp for various different functionality.
 <br/>
 You can do a lot of things like
